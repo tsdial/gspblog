@@ -1,0 +1,148 @@
+body
+{
+  background-color: #F0F8FF;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+
+}
+/*.back-gradient
+{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  background: linear-gradient(to bottom, #a4e5ef 0%, #20774a 100%);
+  height: 100%;
+  width: 100%;
+
+}
+*/
+.header
+{
+  font-size: 40px;
+  color: white;
+  font-family: 'Londrina Shadow', cursive;
+  background-color: black;
+  border-bottom: 1px solid white;
+  box-shadow: 0px 0px 5px 3px #ffffff52;
+  padding: 10px 0px 0px 0px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.header > div{
+  display:inline-block;
+}
+.header > img{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px;
+}
+.container{
+
+}
+.intro
+{
+  font-size: 16px;
+  background-color: #e892df;
+  color:black;
+  border: 5px solid #f0df3a;
+  padding: 5px;
+  margin-bottom: 50px;
+}
+.top-text
+{
+  font-family: 'Overlock', cursive;
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 20px;
+}
+.blog-list
+{
+  font-size: 16px;
+  background-color: #cf3d36;
+  border: 5px solid #e6b24a;
+  padding: 5px;
+}
+
+a
+{
+  color: black;
+}
+
+h5
+{
+  font-size: 20px;
+  display: center;
+  font-family: 'Overlock', cursive;
+  margin-left: 20px;
+}
+
+p
+{
+  margin: 5px 500px 20px 20px;
+  font-size: 14px;
+  font-family: 'Overlock', cursive;
+}
+
+pre
+{
+  font-family: 'Cutive Mono', monospace;
+  font-size: 14px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    font-size: 10px;
+    padding: 10px;
+    text-align: center;
+}
+/*Extra colors:
+background: #a4e5ef
+palm fronds: #20b347 and #019932
+bojack: #9c623f nose: #feb5d0
+boxers: #c2e3ed apples: #fe4c51
+pool: #7fcfea
+bikini: #e72393, #4b2398, #f568a3, #ae60bf
+logo: #ebcb37
+pot: #765163
+
+Diane's jacket: #576825
+Todd's sweatshirt: #cf3d36
+Todd's hat: #e6b24a
+Bojack's sweater: #3566c5
+Bojacket: #707070
+PC: #e892df
+PC sweater: #f0df3a
+PC dress: #46a091
+Mr. PB: #eed142
+Mr. PB shirt: #666661
+
+
+fonts:
+Kalam
+Londrina Shadow
+Macondo
+Glass Antiqua
+Overlock SC
+Milonga
+Corben
+Katibeh
+Londrina Outline
+Mirza
+Cormorant Upright
+Italiana
+Laila
+Gabriela
+Nanum Myeongjo
+Vollkorn
+Cormorant Garamond
+Amatic SC
+Vesper Libre
+Varela Round
